@@ -42,7 +42,7 @@ Option 3: Save the full dataset to a CSV file
 
 ## Data Schema Overview:
 
-1. qs_rankings.csv
+1. qs_rankings
 - country: Country name
 - num_top100: Number of QS Top 100 universities per country
 - year: Ranking year (e.g., 2024)
