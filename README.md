@@ -1,5 +1,5 @@
 # DSCI 510 Project - Submission 2
-"Does Spending More on Education Lead to Better Global University Rankings?"
+"Does Spending More on Education Lead to Better Global University Rankings?"  
 Author: Hengxiao Zhu (zhuhengx@usc.edu)
 ============================================================================
 
