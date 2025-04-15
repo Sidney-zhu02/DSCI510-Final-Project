@@ -39,3 +39,26 @@ Option 2: Only display top N rows (e.g., top 10)
 
 Option 3: Save the full dataset to a CSV file
 - python scraper.py --save qs_rankings.csv
+
+## Data Schema Overview:
+
+1. qs_rankings.csv
+- country: Country name
+- num_top100: Number of QS Top 100 universities per country
+- year: Ranking year (e.g., 2024)
+
+2. education_spending
+- country: Country name
+- avg_spending_pct_gdp: Average education spending (% of GDP) over past 5 years
+- year: Year range (e.g., 2018–2022)
+
+3. country_info
+- country: Country name
+- gdp: GDP (USD)
+- population: Population size
+- year: Same year as QS ranking
+
+4. Notes:
+- Static data is stored in the current directory as qs_rankings.csv  
+- Education and GDP/Population datasets will be integrated in the next phase  
+
