@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core libraries for data handling and numerical computation
+pandas
+numpy
+
+# Data visualization libraries
+matplotlib
+seaborn
+
+# HTTP requests
+requests
+
+# For adjusting overlapping text labels in plots
+adjustText
+
